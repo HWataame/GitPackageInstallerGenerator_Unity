@@ -1,0 +1,11 @@
+{
+  "name": "\!<PkgName>",
+  "version": "\!<PkgVer>",
+  "displayName": "\!<PkgDisplayName>",
+  "description": "",
+  "unity": "2021.3",
+  "author": {
+    "name": "\!<PkgAuthor>"
+  },
+  "dependencies": {}
+}
