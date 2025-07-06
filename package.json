@@ -1,0 +1,10 @@
+{
+  "name": "com.hw.git_package_installer_generator",
+  "version": "1.0.0",
+  "displayName": "Git Package Installer Generator",
+  "description": "Git Package Installer\u3092\u751f\u6210\u3059\u308b(\u5185\u88fd\u30c4\u30fc\u30eb)",
+  "unity": "2021.3",
+  "author": {
+    "name": "Wataame(HWataame)"
+  }
+}
