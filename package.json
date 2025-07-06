@@ -2,7 +2,7 @@
   "name": "com.hw.git_package_installer_generator",
   "version": "1.0.0",
   "displayName": "Git Package Installer Generator",
-  "description": "Git Package Installer\u3092\u751f\u6210\u3059\u308b(\u5185\u88fd\u30c4\u30fc\u30eb)",
+  "description": "\u8907\u6570\u306eGit\u30d1\u30c3\u30b1\u30fc\u30b8\u3092\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3059\u308b\u30d1\u30c3\u30b1\u30fc\u30b8\u3092\u751f\u6210\u3059\u308b\u6a5f\u80fd\u3092\u63d0\u4f9b\u3059\u308b",
   "unity": "2021.3",
   "author": {
     "name": "Wataame(HWataame)"
